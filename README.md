@@ -117,7 +117,7 @@ This project is a web-based platform designed to connect job seekers and employe
 
 ## Contact
 For any questions or suggestions, contact:
-- **Email**: your-email@example.com
+- **Email**: h13716745@gmail.com
 - **GitHub**: [Hussein1371](https://github.com/Hussein1371)
 
 ---
